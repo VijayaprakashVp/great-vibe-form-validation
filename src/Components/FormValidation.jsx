@@ -68,8 +68,8 @@ const FormValidation = () => {
         },
       });
       setReload(!reload);
-    }
     alert("Registered");
+    }
     // else alert("something went wrong");
   };
 
